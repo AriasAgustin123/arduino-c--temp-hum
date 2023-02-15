@@ -1,0 +1,11 @@
+C:\Users\Arias Agustin\Desktop\Temperatura-humedad-arduino\Temperatura-humedad-arduino\bin\Debug\Temperatura-humedad-arduino.exe.config
+C:\Users\Arias Agustin\Desktop\Temperatura-humedad-arduino\Temperatura-humedad-arduino\bin\Debug\Temperatura-humedad-arduino.exe
+C:\Users\Arias Agustin\Desktop\Temperatura-humedad-arduino\Temperatura-humedad-arduino\bin\Debug\Temperatura-humedad-arduino.pdb
+C:\Users\Arias Agustin\Desktop\Temperatura-humedad-arduino\Temperatura-humedad-arduino\obj\Debug\Temperatura-humedad-arduino.csproj.AssemblyReference.cache
+C:\Users\Arias Agustin\Desktop\Temperatura-humedad-arduino\Temperatura-humedad-arduino\obj\Debug\Temperatura-humedad-arduino.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arias Agustin\Desktop\Temperatura-humedad-arduino\Temperatura-humedad-arduino\obj\Debug\Temperatura_humedad_arduino.Form1.resources
+C:\Users\Arias Agustin\Desktop\Temperatura-humedad-arduino\Temperatura-humedad-arduino\obj\Debug\Temperatura_humedad_arduino.Properties.Resources.resources
+C:\Users\Arias Agustin\Desktop\Temperatura-humedad-arduino\Temperatura-humedad-arduino\obj\Debug\Temperatura-humedad-arduino.csproj.GenerateResource.cache
+C:\Users\Arias Agustin\Desktop\Temperatura-humedad-arduino\Temperatura-humedad-arduino\obj\Debug\Temperatura-humedad-arduino.csproj.CoreCompileInputs.cache
+C:\Users\Arias Agustin\Desktop\Temperatura-humedad-arduino\Temperatura-humedad-arduino\obj\Debug\Temperatura-humedad-arduino.exe
+C:\Users\Arias Agustin\Desktop\Temperatura-humedad-arduino\Temperatura-humedad-arduino\obj\Debug\Temperatura-humedad-arduino.pdb
